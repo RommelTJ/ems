@@ -2,6 +2,12 @@
 .idea
 *.iml
 
+# Migrations
+myems/migrations/
+feedback/migrations/
+staticfiles/
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
