@@ -26,7 +26,7 @@ SECRET_KEY = '=z1xpjzek3wrysf0-v$-_f4=-g#mseyxv&9n3tjml(f5!9m=2c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://rommel-myems.herokuapp.com/']
 
 
 # Application definition
